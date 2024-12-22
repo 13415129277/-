@@ -31,6 +31,24 @@
       "quickSearch": 1,
       "changeable": 1
     },
+   {
+      "key": "客星",
+      "name": "客星┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090",
+      "playerType": 1,
+      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
+    },
+  {
+      "key": "木叶",
+      "name": "木叶┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090",
+      "playerType": 2,
+      "ext": "saHR0cDovLzE1Ni4yMjUuMzAuNjU6Nzc4OHw2dmF4am40dmJrcmhzenA4fDZ2YXhqbjR2YmtyaHN6cDh8MTAw"
+    },
     {
       "key": "zxzj",
       "name": "🍊在线┃秒播",
@@ -73,7 +91,15 @@
       "playerType": 1,
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
-
+   {
+      "key": "优质",
+      "name": "优质┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+     "jar": "http://cdn.qiaoji8.com/fix241213.jar;md5;5d2689468818731b89ee0c08afd05090",
+      "playerType": 1,
+      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
+    },
     {
       "key": "贱贱",
       "name": "🐭贱贱┃P2P",
