@@ -40,6 +40,7 @@
       "playerType": 1,
       "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
     },
+
     {
       "key": "csp_Nmys",
       "name": "🎇伯伯┃秒播🎇",
@@ -49,17 +50,8 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "zxzj",
-      "name": "🍊在线┃秒播",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
+
+   
     {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
