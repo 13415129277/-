@@ -12,7 +12,36 @@
       "filterable": 0
     },
 
-
+ {
+            "key": "csp_Xlys",
+            "name": "🍤哔嘀┃1080P",
+            "api": "csp_Xlys",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",
+            "type": 3,
+            "playerType": 2
+        },
+        {
+            "key": "csp_Wwys",
+            "name": "👨农民┃1080P",
+            "type": 3,
+            "playerType": 2,
+            "changeable": 0,
+            "api": "csp_Wwys",
+           "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",
+            "ext": "https://www.wwgz.cn/"
+        },
+        {
+            "key": "csp_XSX",
+            "name": "👀视讯┃1080P",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "api": "csp_Xsx",
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43"
+        },
     {
       "key": "文采",
       "name": "💮文采┃秒播",
