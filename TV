@@ -147,7 +147,7 @@
 
     {
       "key": "荐片",
-      "name": "荐片┃1080P",
+      "name": "👿荐片┃1080P",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -156,6 +156,7 @@
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
+
 		{
 			"key": "csp_Xlys",
 			"name": "🍤哔嘀┃1080P",
