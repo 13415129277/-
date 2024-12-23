@@ -4,7 +4,7 @@
 	"wallpaper": "https://bing.img.run/uhd.php",
 	"sites": [{
 			"key": "豆瓣",
-			"name": "🌈豆瓣┃接口已移交开源平台 请测试完删除处理",
+			"name": "🌈豆瓣┃味精测试",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0
@@ -13,7 +13,7 @@
 
 {
       "key": "py_kk",
-      "name": "夸克ck",
+      "name": "夸克┃激活器",
       "type": 3,
       "changeable": 1,
       "searchable": 1,
@@ -23,7 +23,7 @@
     },
     {
       "key": "py_kk",
-      "name": "夸克ck",
+      "name": "夸克┃激活器",
       "type": 3,
       "changeable": 1,
       "searchable": 1,
