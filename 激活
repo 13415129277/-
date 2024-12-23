@@ -45,7 +45,7 @@ class Spider(Spider):
 
         video = {
             "vod_id": '',
-            "vod_name": '激活完成',
+            "vod_name": '更新完成',
             "vod_pic": 'https://img2.baidu.com/it/u=3934073556,1324485676&fm=253&fmt=auto&app=138&f=JPEG?w=486&h=410',
             "vod_remarks": '更新完成!'
         }
