@@ -115,11 +115,13 @@
 			"api": "csp_MiSou",
 			"changeable": 0
 		},
-	{
+{
       "key": "Wexlabi",
       "name": "💓蜡笔┃4K💓",
       "type": 3,
-      "api": "csp_Wexlabi",         "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734426744024/wex.txt;md5;21a5ba32da12067f02d223bbe1b27651",      "searchable": 1,
+      "api": "csp_Wexlabi",
+ "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734426744024/wex.txt;md5;21a5ba32da12067f02d223bbe1b27651",
+      "searchable": 1,
       "changeable": 1
     },	
 		{
