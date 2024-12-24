@@ -103,7 +103,18 @@
 			}
 		},
 
-
+{
+"key":"csp_Duopan",
+"name":"🖍︎┃蜡笔┃影视",
+"type":3,
+"api":"csp_Duopan",
+"filterable":1,
+"ext":{"site_urls":["https://duopan.fun","http://labipan.com",
+"http://feimaoai.site",
+"https://mihdr.top"],
+"url_key":"Duopan2"
+}
+},
     
 {
       "key": "皮皮虾",
