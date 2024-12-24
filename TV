@@ -163,7 +163,16 @@
 			"changeable": 0
 		},
 	
-
+    {
+      "key": "热播影视",
+      "name": "热播┃影视",
+      "type": 3,
+      "api": "csp_AppRB",
+  "jar": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
 		{
 			"key": "csp_JPYY",
 			"name": "🚗文采┃1080P",
