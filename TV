@@ -9,47 +9,13 @@
 
 {
 			"key": "豆瓣",
-			"name": "🌈温馨提示:先点4K影片-再点☞点击激活",
+			"name": "🌈正在测试中…",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0
 		},
 
 
-
-{
-      "key": "py_kk",
-      "name": "夸克┃点击激活",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://9071.kstore.vip/py/夸克ck.py"
-    },
-
-    {
-      "key": "py_kk",
-      "name": "夸克┃点击激活",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "py_夸克ck",
-      "ext": "https://9071.kstore.vip/py/夸克ck.py"
-    },
-
-
-
-		{
-			"key": "配置",
-			"name": "️⚙️网盘┃配置",
-			"type": 3,
-			"changeable": 0,
-			"searchable": 0,
-			"api": "csp_Config"
-		},
 
 		{
 			"key": "csp_SuBaiBai",
@@ -60,62 +26,9 @@
 			"ext": "https://subaibai.com/"
 		},
 
-		{
-			"key": "csp_Wogg",
-			"name": "🧸玩偶┃4K4K",
-			"type": 3,
-			"api": "csp_Wogg",
-			"changeable": 0,
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-					"http://woggpan.333232.xyz/",
-					"http://wogg.xxooo.cf/",
-					"http://woggapi.888484.xyz/",
-					"http://www.wogg.net"
-				],
-				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
-				}
-			}
-		},
+	
 
 
-		{
-			"key": "csp_Netfixtv",
-			"name": "💯至臻┃4K4K",
-			"type": 3,
-			"api": "csp_Duopan",
-			"changeable": 0,
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-					"https://mihdr.top",
-					"http://www.xhww.net",
-					"http://xhww.net",
-					"https://xiaomiai.site"
-				],
-				"url_key": "Duopan",
-				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
-				}
-			}
-		},
-
-{
-"key":"csp_Duopan",
-"name":"🖍︎蜡笔┃4K4K",
-"type":3,
-"api":"csp_Duopan",
-"filterable":1,
-"ext":{"site_urls":["https://duopan.fun","http://labipan.com",
-"http://feimaoai.site",
-"https://mihdr.top"],
-"url_key":"Duopan2"
-}
-},
     
 {
       "key": "皮皮虾",
@@ -148,21 +61,6 @@
       "api": "py_皮皮虾影视",
       "ext": "https://9071.kstore.vip/py/皮皮虾影视.py"
     },
-		{
-			"key": "小怡",
-			"name": "🔍怡搜┃4K4K",
-			"type": 3,
-			"api": "csp_XiaoYi",
-			"changeable": 0
-		},
-		
-		{
-			"key": "米搜",
-			"name": "🔍米搜┃4K4K",
-			"type": 3,
-			"api": "csp_MiSou",
-			"changeable": 0
-		},
 	
     {
       "key": "热播影视",
