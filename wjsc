@@ -1,0 +1,83 @@
+{
+  "1": {
+    "appid": "117",
+    "packname": "com.a1737351547357",
+    "appico": " https://10525.kstore.space/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E9%98%BF%E6%A3%AE%E5%BD%B1%E8%A7%86.png",
+    "downurl": " https://m2392959.772988.xyz/zhuanshu/gengxin.apk",
+    "apptitle": "机顶盒应用更新",
+    "banben": "1.0"
+  },
+  "2": {
+    "appid": "117",
+    "packname": "fun.yecao.helper",
+    "appico": " http://154.8.177.90:8888/down/x5sRTjR66PAb.png",
+    "downurl": " http://154.8.177.90:8888/down/cQDMexblpjcB.apk",
+    "apptitle": "野草助手",
+    "banben": "2.0.2"
+  },
+  "3": {
+    "appid": "118",
+    "packname": "bukatv.com",
+    "appico": " https://10525.kstore.space/%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87/%E9%98%BF%E6%A3%AE%E7%9B%B4%E6%92%AD.png",
+    "downurl": " https://m2392959.772988.xyz/zhuanshu/xuanfengzhibo.apk",
+    "apptitle": "旋风直播)",
+    "banben": "6.0.1"
+  },
+  "4": {
+    "appid": "118",
+    "packname": "com.hw.live",
+    "appico": " https://m2392959.772988.xyz/zhuanshu/haiwangzhibo.png",
+    "downurl": " https://10525.kstore.space/%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA/%E7%81%AB%E6%98%9F%E5%BD%B1%E8%A7%86_8.8.apk",
+    "apptitle": "海王直播)",
+    "banben": "1.0.0.4"
+  },
+  "5": {
+    "appid": "118",
+    "packname": "com.tv.qx",
+    "appico": " https://m2392959.772988.xyz/zhuanshu/qianxun.png",
+    "downurl": " https://m2392959.772988.xyz/zhuanshu/qianxun.apk",
+    "apptitle": "千寻直播",
+    "banben": "1.0.7"
+  },
+  "6": {
+    "appid": "118",
+    "packname": "com.live.zd",
+    "appico": " https://m2392959.772988.xyz/zhuanshu/xiaowei.png",
+    "downurl": " https://m2392959.772988.xyz/zhuanshu/xiaoweizhibo.apk",
+    "apptitle": "小微直播",
+    "banben": "27003"
+  },
+  "7": {
+    "appid": "118",
+    "packname": "com.ruoxi.ys",
+    "appico": " https://m2392959.772988.xyz/zhuanshu/shenmiren.png",
+    "downurl": " https://m2392959.772988.xyz/zhuanshu/shenmiren.apk",
+    "apptitle": "神秘人-免费追剧",
+    "banben": "3.58"
+  },
+  "8": {
+    "appid": "118",
+    "packname": "com.mygithub0.tvbox0.nxog",
+    "appico": " https://m2392959.772988.xyz/zhuanshu/ouge.png",
+    "downurl": " https://m2392959.772988.xyz/zhuanshu/ouge.apk",
+    "apptitle": "欧歌影视-免费追剧",
+    "banben": "5.0.42"
+  },
+  "9": {
+    "appid": "118",
+    "packname": "com.mmys88.tv",
+    "appico": " https://m2392959.772988.xyz/zhuanshu/mianmian.png",
+    "downurl": " https://m2392959.772988.xyz/zhuanshu/mianmian.apk",
+    "apptitle": "免免影视",
+    "banben": "1.0"
+  },
+  "10": {
+    "appid": "118",
+    "packname": "com.cz1.tv",
+    "appico": " https://m2392959.772988.xyz/zhuanshu/chaoku.png",
+    "downurl": " https://m2392959.772988.xyz/zhuanshu/chaoku.apk",
+    "apptitle": "超酷-最好用的追剧软件  扫码购买账号",
+    "banben": "8.3"
+  },
+  "allnum": "100"
+}
